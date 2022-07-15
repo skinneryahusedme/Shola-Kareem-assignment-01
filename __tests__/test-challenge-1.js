@@ -27,4 +27,5 @@ maybe('Challenge - 1 : my sumNumbers function can sum an array of numbers', () =
         -50
     ];
     expect(sumOfNumbers(numbers)).toBe(75);
+
 });
